@@ -1,5 +1,6 @@
 # Calorie-Counter-Nutrition-Tracker-
-https://nutritiontrackerproject.netlify.app/
+Here's a hyperlink to the website for this project: https://nutritiontrackerproject.netlify.app/
+
 This project centered around a calorie counter, you'll gain insights into validating user input, executing computations based on the provided data, and dynamically refreshing your interface to showcase the outcomes.
 A calorie counter is a tool used to track the number of calories consumed in a day. It helps individuals manage their weight and nutrition by providing insights into their calorie intake. There are various ways to keep track of calories, including:
 
